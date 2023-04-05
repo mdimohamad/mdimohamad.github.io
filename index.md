@@ -10,8 +10,9 @@ For this project, an international financial analysis company tracks stock price
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a> 
 <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt=""></a> 
 </p>
-[View code and details on Github][(http://example.com/](https://github.com/mdimohamad/ETL-project/blob/main/Extract%2C%20Transform%2C%20Load%20(ETL)%20Project.ipynb))
-
+<p>
+<a href="[https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing](https://github.com/mdimohamad/ETL-project/blob/main/Extract%2C%20Transform%2C%20Load%20(ETL)%20Project.ipynb)">View code and details on Github</a>
+</p>
 
 ---
 <!--### Category Name 1
