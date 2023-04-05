@@ -1,11 +1,20 @@
-title: John Doe # your name (or website title) here
+title: Mohamad\nMohammadi # your name (or website title) here
 logo: "/images/103618.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  My interest in the field of data engineering stems from my exposure to raw data in different formats, structures, and sources during my time at an insurance company.
   <br><br>
-  Second description 
+  My experience as a process analyst and my education provided me with a strong foundation in the analytical aspects of data engineering. In addition, I am currently pursuing additional training and certifications to enhance my knowledge of programming languages, data modeling, and data warehousing. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/m-moamadi/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-VVP2WBY2SB # your Google Analytics tracking ID here
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VVP2WBY2SB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VVP2WBY2SB');
+</script>
