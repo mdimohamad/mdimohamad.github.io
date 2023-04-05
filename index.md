@@ -11,7 +11,7 @@ For this project, an international financial analysis company tracks stock price
 <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt=""></a> 
 </p>
 <p>
-<a href="[https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing](https://github.com/mdimohamad/ETL-project/blob/main/Extract%2C%20Transform%2C%20Load%20(ETL)%20Project.ipynb)">View code and details on Github</a>
+<a href="https://github.com/mdimohamad/ETL-project/blob/dbb133d10aa00a452d87f8abf6d3d3554a1a94a2/Extract,%20Transform,%20Load%20(ETL)%20Project.ipynb">View code and details on Github</a>
 </p>
 
 ---
