@@ -6,12 +6,12 @@
 <p>
 For this project, an international financial analysis company tracks stock prices, commodities, forex rates, inflation rates. My job is to extract financial data from various sources like websites, APIs and files provided by various financial analysis firms.
 </p>
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<p>
+<a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a> 
+<a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt=""></a> 
+</p>
+[View code and details on Github][(http://example.com/](https://github.com/mdimohamad/ETL-project/blob/main/Extract%2C%20Transform%2C%20Load%20(ETL)%20Project.ipynb))
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 <!--### Category Name 1
